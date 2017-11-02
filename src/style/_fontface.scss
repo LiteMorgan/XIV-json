@@ -1,0 +1,13 @@
+/* native */
+@font-face {
+  font-family: 'Native';
+  font-style:  normal;
+  font-weight: 400;
+  src: local('Native'),
+       url('./fonts/native/Native-Regular.woff2') format('woff2'),
+       url('./fonts/native/Native-Regular.woff') format('woff'),
+       url('./fonts/native/Native-Regular.ttf') format('truetype');
+}
+
+
+/* open sans */
